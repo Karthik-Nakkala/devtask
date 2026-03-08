@@ -11,7 +11,7 @@ It was built as part of the **internship/fresher qualifier task**.
 ---
 
 ## 📂 Repository
-🔗 GitHub Repo: [View Source Code]()
+🔗 GitHub Repo: [View Source Code](https://github.com/Karthik-Nakkala/devtask/tree/main)
 
 ---
 
