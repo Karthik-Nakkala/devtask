@@ -6,7 +6,7 @@ It was built as part of the **internship/fresher qualifier task**.
 ---
 
 ## 🚀 Live Demo
-🔗 Hosted Link: [View Project on Vercel]()
+🔗 Hosted Link: [View Project on Vercel](https://devtask-popx.vercel.app/)
 
 ---
 
